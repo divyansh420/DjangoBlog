@@ -41,13 +41,13 @@ Here you need to identify the schema/model fields by observing the UIs, The goal
 
 ### Coding Guidelines
 
-- Please fork current problem repository or use it as template and, add [@bhar4t](https://github.com/bhar4t), [@lokendra-smilebots](https://github.com/lokendra-smilebots) as collaborator while intializing repository in github. and follow the given timeline instructions from your mail.
+- Please fork current problem repository or use it as template and, add [@divynash420](https://github.com/divyansh420), as collaborator while intializing repository in github. and follow the given timeline instructions from your mail.
 - The changes/commits will not be considered after timeline mentioned in your mail.
 - Please avoid any frameworks and libraries except **_Django REST framework_**.
 - Focus more on the **_Django REST framework_** side of the problem.
 - After fork do not public the repo
 - You need to add requirements.txt file in project
-- You will be evaluated on
+- You will be evaluated on a **WORKING PROJECT** for:
   - Modularity of Code
   - Security
   - Data Structures used
